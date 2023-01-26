@@ -2,7 +2,7 @@
 Replica of a beautiful immigration theme made out of curosity.
 
 # GETTING STARTED
-https://adishaggarwal.github.io/CanITravelTo-Replica/
+https://adishaggarwal.github.io/CAN-I-TRAVEL-TO/
 
 
 # BUILT WITH
